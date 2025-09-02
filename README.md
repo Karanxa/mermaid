@@ -217,3 +217,6 @@ A quick note from Knut Sveidqvist:
 ---
 
 *Mermaid was created by Knut Sveidqvist for easier documentation.*
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:52 -->
